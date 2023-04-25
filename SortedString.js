@@ -1,8 +1,6 @@
-a = ['siva']
-b=a[0].split('').sort()
-c=b.toString()
-d=b.join('')
+a = ['cat' ,'dog', 'tac']
+obj={}
 
-console.log(b)
-console.log(c)
-console.log(d)
+a.map(e=>{
+    
+})
